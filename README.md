@@ -2,8 +2,7 @@
 ---
 
 
-<img src=4.png height=150 widht=150>
-김호영
+<img src=4.png height=150 widht=150>  이름 : 김호영    생년월일 : 1999.01.20
 
 ---
 
