@@ -2,6 +2,7 @@
 ---
 ![이력서 사진](4.png)
 
+<img src=4.png height=150 widht=150>
 김호영
 
 ---
